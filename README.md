@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sogeking03
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hello, this is Samith
+- 👀 I’m interested in Data Science, Machine learning, Blockchain Technologies, De-Fi, AI and web development.
+- 🌱 I'm currently pursuing a BTech degree.
 - 📫 How to reach me just contact me on my socials
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: There is no fun in facts
